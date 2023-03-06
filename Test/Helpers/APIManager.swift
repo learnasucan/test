@@ -49,11 +49,6 @@ final class APIManager {
             
         }.resume()
     }
-    
+        
 }
 
-
-class A {
-    
-
-}
